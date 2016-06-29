@@ -1,0 +1,3 @@
+Options +FollowSymlinks
+RewriteEngine on
+rewriterule ^coming_soon/index.php(.*)$ whitestreak.in$1 [r=301,nc]

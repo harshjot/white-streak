@@ -1,0 +1,8 @@
+
+RewriteOptions inherit
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^/?$ "http\:\/\/whitestreak\.in\/index\.html" [R=301,L]
+
