@@ -167,6 +167,11 @@ body > section#slide-show {
     padding: 20px 0
 }
 
+.contact-title {
+    background: transparent;
+    width: 100%;
+}
+
 .center {
     text-align: center
 }
@@ -450,6 +455,11 @@ header .dropdown-menu:before {
 .no-margin {
     margin: 0;
     padding: 0
+}
+
+#home-cols {
+    background-image: url(https://www.indeftts.com/img/small_bg.jpg);
+    padding: 40px 0;
 }
 
 #services {
@@ -1034,4 +1044,9 @@ ul.faq li > div h3 {
         width: 20px;
         height: 20px;
     }
+}
+
+#contact-title {
+    background-image: url(https://www.indeftts.com/img/slider/contact.jpg);
+    padding: 20px 0
 }
