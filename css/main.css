@@ -1048,5 +1048,9 @@ ul.faq li > div h3 {
 
 #contact-title {
     background-image: url(https://www.indeftts.com/img/slider/contact.jpg);
-    padding: 20px 0
+    padding: 20px 0;
+}
+
+#about-page > h4 {
+    color: #3399cc;
 }
